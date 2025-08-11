@@ -19,7 +19,7 @@ Try the live app here: [https://moses-09.github.io/todo-app/](https://moses-09.g
 ## Author
 [Moses Mekala](https://github.com/moses-09)  
 Front-End Developer | CSE Graduate  
-Email: mekala.29@apac.teleperformance.com
+Email: mekalamoses09@gmail.com
 
 ---
 
